@@ -10,6 +10,8 @@ https://github.com/vim/vim[Vim]
 
 ## Version Control System
 
+https://git-scm.com/[Git]
+
 ## Work
 
 https://workforcenow.adp.com[ADP] - https://https://workforcenow.adp.com/workforcenow/login.html[Login]
