@@ -4,6 +4,10 @@
 
 https://www.itpro.tv/[ITPRO.TV] - https://app.itpro.tv/login/[Login]
 
+## Music
+
+https://www.youtube.com/results?search_query=hacker+music+playlist[Hacker Playlist]
+
 ## Password Manager
 
 https://lastpass.com/[Lastpass^] - https://lastpass.com/?ac=1&lpnorefresh=1[Login]
