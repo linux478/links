@@ -4,6 +4,12 @@
 
 https://lastpass.com/[Lastpass^] - https://lastpass.com/?ac=1&lpnorefresh=1[Login]
 
+## Text Editor
+
+https://github.com/vim/vim[Vim]
+
+## Version Control System
+
 ## Work
 
 https://workforcenow.adp.com[ADP] - https://https://workforcenow.adp.com/workforcenow/login.html[Login]
