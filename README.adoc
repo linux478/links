@@ -12,6 +12,10 @@ https://github.com/vim/vim[Vim]
 
 https://git-scm.com/[Git]
 
+## Web Browser
+
+https://brave.com/[Brave]
+
 ## Work
 
 https://workforcenow.adp.com[ADP] - https://https://workforcenow.adp.com/workforcenow/login.html[Login]
