@@ -12,6 +12,10 @@ https://www.youtube.com/results?search_query=hacker+music+playlist[Hacker Playli
 
 https://lastpass.com/[Lastpass^] - https://lastpass.com/?ac=1&lpnorefresh=1[Login]
 
+## Raspberry Pi Projects
+
+https://www.youtube.com/watch?v=SrZuwM705yE[How to Detect QRCode and BarCode using OpenCV in Python + Project]
+
 ## Text Editor
 
 https://github.com/vim/vim[Vim]
