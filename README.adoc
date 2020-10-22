@@ -2,37 +2,37 @@
 
 ## Daily Comics
 
-http://www.joyoftech.com/joyoftech/[Joy Of Tech]
-http://userfriendly.org/[userfriendly.org]
+* http://www.joyoftech.com/joyoftech/[Joy Of Tech]
+* http://userfriendly.org/[userfriendly.org]
 
 ## IT Training
 
-https://www.itpro.tv/[ITPRO.TV] - https://app.itpro.tv/login/[Login]
+* https://www.itpro.tv/[ITPRO.TV] - https://app.itpro.tv/login/[Login]
 
 ## Music
 
-https://www.youtube.com/results?search_query=hacker+music+playlist[Hacker Playlist]
+* https://www.youtube.com/results?search_query=hacker+music+playlist[Hacker Playlist]
 
 ## Password Manager
 
-https://lastpass.com/[Lastpass^] - https://lastpass.com/?ac=1&lpnorefresh=1[Login]
+* https://lastpass.com/[Lastpass^] - https://lastpass.com/?ac=1&lpnorefresh=1[Login]
 
 ## Raspberry Pi Projects
 
-https://www.youtube.com/watch?v=SrZuwM705yE[How to Detect QRCode and BarCode using OpenCV in Python + Project]
+* https://www.youtube.com/watch?v=SrZuwM705yE[How to Detect QRCode and BarCode using OpenCV in Python + Project]
 
 ## Text Editor
 
-https://github.com/vim/vim[Vim]
+* https://github.com/vim/vim[Vim]
 
 ## Version Control System
 
-https://git-scm.com/[Git]
+* https://git-scm.com/[Git]
 
 ## Web Browser
 
-https://brave.com/[Brave]
+* https://brave.com/[Brave]
 
 ## Work
 
-https://workforcenow.adp.com[ADP] - https://workforcenow.adp.com/workforcenow/login.html[Login]
+* https://workforcenow.adp.com[ADP] - https://workforcenow.adp.com/workforcenow/login.html[Login]
