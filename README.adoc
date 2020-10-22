@@ -33,6 +33,11 @@
 
 * https://brave.com/[Brave]
 
+## Wish List
+
+* Setup a blog
+** https://opensource.com/article/19/5/run-your-blog-github-pages-python[Run Your Blog On GitHub Pages With Python]
+  
 ## Work
 
 * https://workforcenow.adp.com[ADP] - https://workforcenow.adp.com/workforcenow/login.html[Login]
